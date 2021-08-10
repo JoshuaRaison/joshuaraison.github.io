@@ -1,0 +1,20 @@
+body {
+	background-color: #082032;
+	text-align: center;
+	
+}
+div {
+	display: block;
+	background-color: black;
+	color: darkred;
+	padding: 10%;
+	margin: auto 0 auto 0;
+	border: 2px solid yellow;
+}
+h1 {
+	color: limegreen;
+}
+span {
+	font-weight: 700;
+	font-size: 50px;
+}
