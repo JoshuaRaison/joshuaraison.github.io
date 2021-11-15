@@ -1,20 +1,47 @@
+* {
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
 body {
-	background-color: #082032;
-	text-align: center;
+	background-color: #fff;
+	color: #333;
+	font-family: sans-serif;
 	
 }
-div {
-	display: block;
-	background-color: black;
-	color: darkred;
-	padding: 10%;
-	margin: auto 0 auto 0;
-	border: 2px solid yellow;
+.title {
+	padding-top: 30px;
 }
-h1 {
-	color: limegreen;
+
+.brand {
+	display: inline-block;
+	width: 200px;
+	height: 50px;
+	text-align: center;
 }
-span {
-	font-weight: 700;
-	font-size: 50px;
+.brand-name {
+	font-size: 2rem;
+	padding-top: 5px;
+	font-weight: 900;
+}
+.brand-avatar {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	position: relative;
+	float: left;
+	padding-left: 15px;
+}
+
+.temp-text {
+	opacity: 0.7;
+	font-size: 4rem;
+	font-weight: 900;
+	border-left: 5px solid #333;
+	padding-left: 10px;
+	
+}
+
+.container {
+	text-align: center;
+	margin: 150px 100px;
 }
