@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joshuaraison
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://iamjoshua.me
+  * I am joshuaraison (https://keybase.io/joshuaraison) on keybase.
+  * I have a public key ASCq3W6C4YLzIzAirrsKjAq7tnNJn0ry3hjv_VOwqwWf9go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120625226f82de8b6a52eddc6b4d397cd0299fb658edb2d92717f7911d965e538b60a",
+      "host": "keybase.io",
+      "kid": "0120aadd6e82e182f3233022aebb0a8c0abbb673499f4af2de18effd53b0ab059ff60a",
+      "uid": "14c398374e92c33853f4f879c2936f19",
+      "username": "joshuaraison"
+    },
+    "merkle_root": {
+      "ctime": 1689589954,
+      "hash": "6ffcb64b5831f36076daa7392dcd35a8c16c0db7a471ddd1c189a622cb4d3d520afd81e341f6d09451fcc2064897e9afffb1c2d26f2145206002b4875b6174bb",
+      "hash_meta": "a2302210ef4507412ef515099e0051d19db8b968154fd47df3ad66f3dc73a90d",
+      "seqno": 24694651
+    },
+    "service": {
+      "entropy": "YY0z5k3V+iPZEFVtZdiIxb1H",
+      "hostname": "iamjoshua.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1689590002,
+  "expire_in": 504576000,
+  "prev": "a808ef329958158aeea59e0221c7172f44c20af40d73d3ae4bd8bbd3366aa099",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqt1uguGC8yMwIq67CowKu7ZzSZ9K8t4Y7/1TsKsFn/YKp3BheWxvYWTESpcCIsQgqAjvMplYFYrupZ4CIccXL0TCCvQNc9OuS9i70zZqoJnEIF1GpJ5eNTZ/BzV+W9drfib6hhr/SZtgp5xGE38PpNPtAgHCo3NpZ8RApABFQGGrNGzRaYH/PLHEzL3p077ZimrLtORFUjqXFUkoeA+7Yk2db2LtVXFnRERlP1jo8aheVILfLbF0R1NeCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE+CQSivW1piLTvYgOT9AfraY8fPD9Tkavrm7Dbb+W3qo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshuaraison
+
+==================================================================
